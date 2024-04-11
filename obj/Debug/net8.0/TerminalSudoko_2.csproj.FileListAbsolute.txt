@@ -1,0 +1,15 @@
+C:\Users\jakes\OneDrive\Desktop\OO_coursework_2\TerminalSudoko_2\bin\Debug\net8.0\TerminalSudoko_2.exe
+C:\Users\jakes\OneDrive\Desktop\OO_coursework_2\TerminalSudoko_2\bin\Debug\net8.0\TerminalSudoko_2.deps.json
+C:\Users\jakes\OneDrive\Desktop\OO_coursework_2\TerminalSudoko_2\bin\Debug\net8.0\TerminalSudoko_2.runtimeconfig.json
+C:\Users\jakes\OneDrive\Desktop\OO_coursework_2\TerminalSudoko_2\bin\Debug\net8.0\TerminalSudoko_2.dll
+C:\Users\jakes\OneDrive\Desktop\OO_coursework_2\TerminalSudoko_2\bin\Debug\net8.0\TerminalSudoko_2.pdb
+C:\Users\jakes\OneDrive\Desktop\OO_coursework_2\TerminalSudoko_2\obj\Debug\net8.0\TerminalSudoko_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakes\OneDrive\Desktop\OO_coursework_2\TerminalSudoko_2\obj\Debug\net8.0\TerminalSudoko_2.AssemblyInfoInputs.cache
+C:\Users\jakes\OneDrive\Desktop\OO_coursework_2\TerminalSudoko_2\obj\Debug\net8.0\TerminalSudoko_2.AssemblyInfo.cs
+C:\Users\jakes\OneDrive\Desktop\OO_coursework_2\TerminalSudoko_2\obj\Debug\net8.0\TerminalSudoko_2.csproj.CoreCompileInputs.cache
+C:\Users\jakes\OneDrive\Desktop\OO_coursework_2\TerminalSudoko_2\obj\Debug\net8.0\TerminalSudoko_2.dll
+C:\Users\jakes\OneDrive\Desktop\OO_coursework_2\TerminalSudoko_2\obj\Debug\net8.0\refint\TerminalSudoko_2.dll
+C:\Users\jakes\OneDrive\Desktop\OO_coursework_2\TerminalSudoko_2\obj\Debug\net8.0\TerminalSudoko_2.pdb
+C:\Users\jakes\OneDrive\Desktop\OO_coursework_2\TerminalSudoko_2\obj\Debug\net8.0\TerminalSudoko_2.genruntimeconfig.cache
+C:\Users\jakes\OneDrive\Desktop\OO_coursework_2\TerminalSudoko_2\obj\Debug\net8.0\ref\TerminalSudoko_2.dll
+C:\Users\jakes\OneDrive\Desktop\OO_coursework_2\TerminalSudoko_2\obj\Debug\net8.0\TerminalSudoko_2.sourcelink.json
